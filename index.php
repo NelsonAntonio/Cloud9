@@ -1,2 +1,5 @@
-hola
+<?php
 
+
+?>
+<h1>Hola mundo</h1>
